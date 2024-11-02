@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tri Aldy Kurniawan</h1>
-<h3 align="center">A passionate game developer from Indonesia</h3>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trialdyk&label=Profile%20views&color=0e75b6&style=flat" alt="trialdyk" /> </p>
 
